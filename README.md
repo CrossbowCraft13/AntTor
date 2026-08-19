@@ -54,6 +54,18 @@ AntTor is an ambitious project, built incrementally. It's currently in the early
 
 ---
 
+## 🌐 Website
+
+The AntTor landing page — a glassy, dark, animated feature page — lives in the [`website/`](website/) folder (a Vite + React + TypeScript + Tailwind project).
+
+```bash
+cd website
+bun install
+bun run dev
+```
+
+---
+
 ## 📚 Learn More
 
 This README is intentionally short. AntTor has a lot of moving parts, and the deep dives live in the [AntTor Wiki](https://github.com/CrossbowCraft13/AntTor/wiki).

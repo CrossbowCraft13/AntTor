@@ -1,30 +1,6 @@
-# Dependencies
+# Workspace-level artifacts (the website project lives in website/ with its own .gitignore)
 node_modules/
-
-# Build output
 dist/
-dist-ssr/
-
-# Logs
-logs/
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Env files
+*.local
 .env
 .env.*
-!.env.example
-
-# Editor / OS
-.vscode/*
-!.vscode/extensions.json
-.idea/
-.DS_Store
-*.local
-
-# TypeScript
-*.tsbuildinfo
-node_modules/.tmp/
