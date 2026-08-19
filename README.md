@@ -33,6 +33,7 @@ It isn't meant to replace Tor. It's meant to complement it.
 - 🧱 **Failure resistant** — nodes can vanish without taking the network down
 - 🆓 **One tier** — the core network is intended to remain free to use
 - 🧠 **Simple UX** — users never need to understand the underlying technology
+- 📱 **Any device** — installs on phones, laptops, desktops, routers, NAS, and servers
 
 ---
 
